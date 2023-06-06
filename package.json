@@ -1,0 +1,23 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer poryecto de js con Node en OpenBootcamp   ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casepaulina/OpenBootCamp.git"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproyect"
+  ],
+  "author": "Paulina Case",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casepaulina/OpenBootCamp/issues"
+  },
+  "homepage": "https://github.com/casepaulina/OpenBootCamp#readme"
+}
