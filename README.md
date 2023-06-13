@@ -1,2 +1,2 @@
 # OpenBootCamp 
-Exercises of JavaScript for OpenBootCamp 
+First exercise of JavaScript for OpenBootCamp 
